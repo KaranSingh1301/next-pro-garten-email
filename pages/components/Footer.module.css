@@ -1,0 +1,23 @@
+.container{
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  height: 80px;
+  margin-left: 60%;
+}
+
+.img{
+  display:flex;
+  
+}
+
+.text{
+  display:flex;
+  
+}
+
+.fi{
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}

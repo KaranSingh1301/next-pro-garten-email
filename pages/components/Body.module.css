@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+  
+    align-items: center;
+   
+    max-width: 1500px;
+    top:100px;
+    margin-left: 60px;
+  }
+
+  .img{
+    width: auto;
+    
+    height: 600px;
+    margin-left:40px;
+  }
+
+  .content{
+    margin-left: 70px;
+    margin-top: -60px;
+    font-size: large;
+  }
+
+
+  .hone{
+    color:#fc8621;
+    
+    margin-bottom: 10px;
+    }
+
+.htwo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold ;
+    line-height: 60px;
+} 
+.hthree{
+    font-weight:lighter;
+    font-weight: 400;  
+}
